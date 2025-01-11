@@ -31,7 +31,6 @@ body {
   border: 2px solid var(--warna2);
   border-radius: 75rem;
   box-shadow: 0 5px 0 var(--warna2);
-
   transition: all 0.1s ease;
 }
 
